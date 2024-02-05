@@ -1,0 +1,9 @@
+*.pkl
+SARIMA.pkl
+logs/
+time_series_3_10/
+time_series_3_10_fbProphet/
+time_series_venv/
+time_series_venv3.10/
+*.pdf
+*.pptx
